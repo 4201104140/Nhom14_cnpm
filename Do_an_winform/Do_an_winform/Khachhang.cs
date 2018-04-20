@@ -14,6 +14,7 @@ namespace Do_an_winform
     {
         public Khachhang()
         {
+            //dangtrunghieu
             InitializeComponent();
         }
     }
