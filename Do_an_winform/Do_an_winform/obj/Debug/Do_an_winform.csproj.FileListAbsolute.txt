@@ -1,0 +1,13 @@
+D:\Lập Trình Web\Do_an_winform\Do_an_winform\bin\Debug\Do_an_winform.exe.config
+D:\Lập Trình Web\Do_an_winform\Do_an_winform\bin\Debug\Do_an_winform.exe
+D:\Lập Trình Web\Do_an_winform\Do_an_winform\bin\Debug\Do_an_winform.pdb
+D:\Lập Trình Web\Do_an_winform\Do_an_winform\obj\Debug\Do_an_winform.csprojResolveAssemblyReference.cache
+D:\Lập Trình Web\Do_an_winform\Do_an_winform\obj\Debug\Do_an_winform.Properties.Resources.resources
+D:\Lập Trình Web\Do_an_winform\Do_an_winform\obj\Debug\Do_an_winform.csproj.GenerateResource.Cache
+D:\Lập Trình Web\Do_an_winform\Do_an_winform\obj\Debug\Do_an_winform.exe
+D:\Lập Trình Web\Do_an_winform\Do_an_winform\obj\Debug\Do_an_winform.pdb
+D:\Lập Trình Web\Do_an_winform\Do_an_winform\obj\Debug\Do_an_winform.MainForm.resources
+D:\Lập Trình Web\Do_an_winform\Do_an_winform\obj\Debug\Do_an_winform.Hanghoa.resources
+D:\Lập Trình Web\Do_an_winform\Do_an_winform\obj\Debug\Do_an_winform.Nhanvien.resources
+D:\Lập Trình Web\Do_an_winform\Do_an_winform\obj\Debug\Do_an_winform.Khachhang.resources
+D:\Lập Trình Web\Do_an_winform\Do_an_winform\obj\Debug\Do_an_winform.Nhacungcap.resources
